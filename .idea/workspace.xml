@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdd3b2c5-0f19-478b-9792-a4c12d5739c8" name="Changes" comment="Initialize project">
+    <list default="true" id="cdd3b2c5-0f19-478b-9792-a4c12d5739c8" name="Changes" comment="Module Two: assignment one">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ModuleTwo/WordPlay.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ModuleTwo/WordPlayTest.java" afterDir="false" />
     </list>
@@ -26,9 +27,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2tqa9Yo6fKOnSihSE3vyQYW2A0U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,7 +45,6 @@
     "JUnit.WordPlayTest.testEmphasize_ExampleTwo.executor": "Run",
     "JUnit.WordPlayTest.testReplaceVowels_NoVowels.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -166,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741087264184</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="minor">
+      <option name="closed" value="true" />
+      <created>1741087319925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741087319925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +190,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialize project" />
+    <MESSAGE value="minor" />
+    <MESSAGE value="Module Two: assignment one" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module Two: assignment one" />
   </component>
 </project>
