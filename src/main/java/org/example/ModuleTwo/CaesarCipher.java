@@ -100,5 +100,4 @@ public class CaesarCipher {
             System.out.println("Error reading the file: " + e.getMessage());
         }
     }
-
 }

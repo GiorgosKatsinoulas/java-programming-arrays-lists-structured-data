@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.ModuleTwo.CaesarBreaker;
 import org.example.ModuleTwo.CaesarCipher;
 import org.example.ModuleTwo.WordLengths;
 
@@ -12,8 +13,7 @@ public class Main {
 //        CaesarCipher cv = new CaesarCipher();
 //        System.out.println(cv.encryptTwoKeys("At noon be in the conference room with your hat on for a surprise party. YELL LOUD!", 8, 21));
 //        cv.testCaesar();
-//        System.out.println(cv.encrypt("At noon be in the conference room with your hat on for a surprise party. YELL LOUD!",15));
-
+//        System.out.println(cv.encrypt("At noon be in the conference room with your hat on for a surprise party. YELL LOUD!",20));
     //Word Length Testing
 //        String filePath = "/Users/gkats/Java Programming-Arrays-Lists-StructuredData/wordLength.txt"; // Replace with your file path
 //        WordLengths wl = new WordLengths();
@@ -21,6 +21,11 @@ public class Main {
 //        wl.countWordLengths(filePath,counts);
 //        WordLengths wl = new WordLengths();
 //        wl.testCountWordLengths();
+
+        //Caesar Breaker Testing
+        CaesarBreaker cb = new CaesarBreaker();
+//        cb.testDecrypt();
+        cb.testDecryptTwoKeys();
 
     }
 }
